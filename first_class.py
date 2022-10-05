@@ -30,9 +30,30 @@
 
 # print (x)
 
-tomi = 20
-y = 10
+# tomi = 20
+# y = 10
 
-x = tomi+y
+# x = tomi+y
 
-print(x)
+# print(x)
+
+
+
+mins = 42
+secs = 42
+
+# 60 seconds in one minute
+
+t_mins = mins * 60
+t_secs = t_mins + secs
+
+print (t_secs)
+
+# how many miles are in 10 mins, 1.6mins = a mile
+mins = 1.01
+km = 10
+
+t_miles = km/mins
+print (t_miles)
+
+
